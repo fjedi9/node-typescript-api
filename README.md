@@ -1,6 +1,5 @@
 # Node.js API com Typescript
 -----------
-[![Actions Status](https://github.com/waldemarnt/node-typescript-api/workflows/Complete%20workflow/badge.svg)](https://github.com/waldemarnt/node-typescript-api/actions)
 
 Código do curso 👉 [DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT](https://www.nodejs-typescript-api.com/curso-gratis)
 
@@ -10,7 +9,7 @@ Durante o curso é criado uma API para calcular a melhor condição de surf entr
 A imagem abaixo mostra o resultado final do curso com a página web mostrando todos os dados que vem da API construída durante o curso.👌
 
 ![Exemplo pagina web](https://i.ibb.co/qp2jtLk/Screen-Shot-2020-07-18-at-10-42-39-am.png)
-[(Tutorial para executar a pagina web)](https://github.com/waldemarnt/node-typescript-api/tree/master/web)
+[(Tutorial para executar a pagina web)]
 
 ## Tecnologias utilizadas
 ----
@@ -26,16 +25,7 @@ Principais tecnologias utilizadas no código.
 
 🛠 [Github Actions](https://github.com/features/actions)
 
+https://github.com/fjedi9/node-typescript-api
 
-## Como o código é estruturado
------
 
-O código esta estrururado em branches para cada um dos capitulos. Para comparar as mudanças entre um capitulo e outro utilize a opção [Compare](https://github.com/waldemarnt/node-typescript-api/compare/step1...step2) do Github para ver
-as mudanças lado a lada.
 
-## Como rodar a pagina web
-----
-🔗[Clique aqui para ver como rodar a página web.](https://github.com/waldemarnt/node-typescript-api/tree/master/web)
-
-## Como contribuir
-Em Construção (mas abra um Pull Request de qualquer maneira xD)
